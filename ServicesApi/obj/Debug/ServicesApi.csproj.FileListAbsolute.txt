@@ -1,0 +1,10 @@
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\ServicesApi.dll.config
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\ServicesApi.dll
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\ServicesApi.pdb
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\EntityFramework.dll
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\EntityFramework.xml
+D:\WebApi\CrudWebApi\ServicesApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebApi\CrudWebApi\ServicesApi\obj\Debug\ServicesApi.csprojResolveAssemblyReference.cache
+D:\WebApi\CrudWebApi\ServicesApi\obj\Debug\ServicesApi.dll
+D:\WebApi\CrudWebApi\ServicesApi\obj\Debug\ServicesApi.pdb
